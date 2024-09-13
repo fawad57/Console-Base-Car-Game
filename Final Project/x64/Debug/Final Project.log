@@ -1,0 +1,33 @@
+﻿  Final Project.cpp
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_One.h(120,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_One.h(144,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_Two.h(82,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_Three.h(106,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(41,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(48,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(64,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(71,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(78,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(85,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(92,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Resume.h(100,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Game_Play.h(644,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Game_Play.h(650,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_One.h(120,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_One.h(144,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Level_Two.h(82,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Game_Play.h(1372,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Game_Play.h(1378,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(142,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(143,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(149,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(150,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(164,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(242,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(243,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(250,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(251,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(257,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(129,8): warning C4101: 's': unreferenced local variable
+F:\Semester 3\Data Structure\Final Project\Final Project\Final Project.cpp(129,11): warning C4101: 'c': unreferenced local variable
+  Final Project.vcxproj -> F:\Semester 3\Data Structure\Final Project\x64\Debug\Final Project.exe
